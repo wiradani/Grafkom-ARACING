@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: ef05e722f056bf34ca82f1653dcbea10
+timeCreated: 1514425093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: badge
+    100002: cover
+    100004: default
+    100006: glass
+    100008: //RootNode
+    100010: w0
+    100012: w1
+    100014: w2
+    100016: w3
+    400000: badge
+    400002: cover
+    400004: default
+    400006: glass
+    400008: //RootNode
+    400010: w0
+    400012: w1
+    400014: w2
+    400016: w3
+    2300000: badge
+    2300002: cover
+    2300004: default
+    2300006: glass
+    2300008: w0
+    2300010: w1
+    2300012: w2
+    2300014: w3
+    3300000: badge
+    3300002: cover
+    3300004: default
+    3300006: glass
+    3300008: w0
+    3300010: w1
+    3300012: w2
+    3300014: w3
+    4300000: badge
+    4300002: cover
+    4300004: default
+    4300006: glass
+    4300008: w0
+    4300010: w1
+    4300012: w2
+    4300014: w3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge
+    second: {fileID: 2100000, guid: 27d3b3850c3dc4948bb0f9335df05381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 0f513c55afff94547812dea1a22c6b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c0
+    second: {fileID: 2100000, guid: cbc04b349da700a47bc2c95d59fbe200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 644a7b732a133864cbbb97a0e4995c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grille1
+    second: {fileID: 2100000, guid: a38104cfce7638a40af2e8f9017f0d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_rim
+    second: {fileID: 2100000, guid: 7c7a22122c0e4eb4ebe0466f711c93c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights0
+    second: {fileID: 2100000, guid: d31601d8468974e468d98ee73995a0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights1
+    second: {fileID: 2100000, guid: 6a473e8344282b646a12f4aa535cb999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nodmg
+    second: {fileID: 2100000, guid: bea481b4c74af0f44bd0ae6c5b771d58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: bd63e73a1e39e4642a87eeedde53e981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: e19b08e1b36d94d4881b72f389440e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undercarriage
+    second: {fileID: 2100000, guid: 79d38614090ee1e43a51f35940933233, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: ba9e534fbb213b6489bffba4e11e79f6
+timeCreated: 1514625994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back_light_L
+    100002: Back_light_R
+    100004: Base
+    100006: BLightL
+    100008: BLightR
+    100010: Body
+    100012: BrakeFL
+    100014: BrakeFR
+    100016: BrakeRL
+    100018: BrakeRR
+    100020: BumperF
+    100022: BumperR
+    100024: //RootNode
+    100026: DoorL
+    100028: DoorR
+    100030: Driver_Sport
+    100032: Engine
+    100034: Exhaust
+    100036: FenderL
+    100038: FenderR
+    100040: HLightL
+    100042: HLightLG
+    100044: HLightR
+    100046: HLightRG
+    100048: Hood
+    100050: LicenseF
+    100052: LicenseR
+    100054: MirrorL
+    100056: MirrorR
+    100058: Plane01
+    100060: reflect_box01
+    100062: RotorFL
+    100064: RotorFR
+    100066: RotorRL
+    100068: RotorRR
+    100070: Seat_Sport
+    100072: SeatL
+    100074: SkirtL
+    100076: SkirtR
+    100078: Spoiler
+    100080: TireFL
+    100082: TireFL1
+    100084: TireFR
+    100086: TireFR1
+    100088: TireRL
+    100090: TireRL1
+    100092: TireRR
+    100094: TireRR1
+    100096: Trunk
+    100098: WindF
+    100100: WindFL
+    100102: WindFR
+    100104: WindR
+    100106: WindRL
+    100108: WindRR
+    400000: Back_light_L
+    400002: Back_light_R
+    400004: Base
+    400006: BLightL
+    400008: BLightR
+    400010: Body
+    400012: BrakeFL
+    400014: BrakeFR
+    400016: BrakeRL
+    400018: BrakeRR
+    400020: BumperF
+    400022: BumperR
+    400024: //RootNode
+    400026: DoorL
+    400028: DoorR
+    400030: Driver_Sport
+    400032: Engine
+    400034: Exhaust
+    400036: FenderL
+    400038: FenderR
+    400040: HLightL
+    400042: HLightLG
+    400044: HLightR
+    400046: HLightRG
+    400048: Hood
+    400050: LicenseF
+    400052: LicenseR
+    400054: MirrorL
+    400056: MirrorR
+    400058: Plane01
+    400060: reflect_box01
+    400062: RotorFL
+    400064: RotorFR
+    400066: RotorRL
+    400068: RotorRR
+    400070: Seat_Sport
+    400072: SeatL
+    400074: SkirtL
+    400076: SkirtR
+    400078: Spoiler
+    400080: TireFL
+    400082: TireFL1
+    400084: TireFR
+    400086: TireFR1
+    400088: TireRL
+    400090: TireRL1
+    400092: TireRR
+    400094: TireRR1
+    400096: Trunk
+    400098: WindF
+    400100: WindFL
+    400102: WindFR
+    400104: WindR
+    400106: WindRL
+    400108: WindRR
+    2300000: Back_light_L
+    2300002: Back_light_R
+    2300004: Base
+    2300006: BLightL
+    2300008: BLightR
+    2300010: Body
+    2300012: BrakeFL
+    2300014: BrakeFR
+    2300016: BrakeRL
+    2300018: BrakeRR
+    2300020: BumperF
+    2300022: BumperR
+    2300024: DoorL
+    2300026: DoorR
+    2300028: Driver_Sport
+    2300030: Engine
+    2300032: Exhaust
+    2300034: FenderL
+    2300036: FenderR
+    2300038: HLightL
+    2300040: HLightLG
+    2300042: HLightR
+    2300044: HLightRG
+    2300046: Hood
+    2300048: LicenseF
+    2300050: LicenseR
+    2300052: MirrorL
+    2300054: MirrorR
+    2300056: Plane01
+    2300058: reflect_box01
+    2300060: RotorFL
+    2300062: RotorFR
+    2300064: RotorRL
+    2300066: RotorRR
+    2300068: Seat_Sport
+    2300070: SeatL
+    2300072: SkirtL
+    2300074: SkirtR
+    2300076: Spoiler
+    2300078: TireFL
+    2300080: TireFL1
+    2300082: TireFR
+    2300084: TireFR1
+    2300086: TireRL
+    2300088: TireRL1
+    2300090: TireRR
+    2300092: TireRR1
+    2300094: Trunk
+    2300096: WindF
+    2300098: WindFL
+    2300100: WindFR
+    2300102: WindR
+    2300104: WindRL
+    2300106: WindRR
+    3300000: Back_light_L
+    3300002: Back_light_R
+    3300004: Base
+    3300006: BLightL
+    3300008: BLightR
+    3300010: Body
+    3300012: BrakeFL
+    3300014: BrakeFR
+    3300016: BrakeRL
+    3300018: BrakeRR
+    3300020: BumperF
+    3300022: BumperR
+    3300024: DoorL
+    3300026: DoorR
+    3300028: Driver_Sport
+    3300030: Engine
+    3300032: Exhaust
+    3300034: FenderL
+    3300036: FenderR
+    3300038: HLightL
+    3300040: HLightLG
+    3300042: HLightR
+    3300044: HLightRG
+    3300046: Hood
+    3300048: LicenseF
+    3300050: LicenseR
+    3300052: MirrorL
+    3300054: MirrorR
+    3300056: Plane01
+    3300058: reflect_box01
+    3300060: RotorFL
+    3300062: RotorFR
+    3300064: RotorRL
+    3300066: RotorRR
+    3300068: Seat_Sport
+    3300070: SeatL
+    3300072: SkirtL
+    3300074: SkirtR
+    3300076: Spoiler
+    3300078: TireFL
+    3300080: TireFL1
+    3300082: TireFR
+    3300084: TireFR1
+    3300086: TireRL
+    3300088: TireRL1
+    3300090: TireRR
+    3300092: TireRR1
+    3300094: Trunk
+    3300096: WindF
+    3300098: WindFL
+    3300100: WindFR
+    3300102: WindR
+    3300104: WindRL
+    3300106: WindRR
+    4300000: Back_light_L
+    4300002: Back_light_R
+    4300004: Base
+    4300006: BLightL
+    4300008: BLightR
+    4300010: Body
+    4300012: BrakeFL
+    4300014: BrakeFR
+    4300016: BrakeRL
+    4300018: BrakeRR
+    4300020: BumperF
+    4300022: BumperR
+    4300024: DoorL
+    4300026: DoorR
+    4300028: Driver_Sport
+    4300030: Engine
+    4300032: Exhaust
+    4300034: FenderL
+    4300036: FenderR
+    4300038: HLightL
+    4300040: HLightLG
+    4300042: HLightR
+    4300044: HLightRG
+    4300046: Hood
+    4300048: LicenseF
+    4300050: LicenseR
+    4300052: MirrorL
+    4300054: MirrorR
+    4300056: Plane01
+    4300058: reflect_box01
+    4300060: RotorFL
+    4300062: RotorFR
+    4300064: RotorRL
+    4300066: RotorRR
+    4300068: Seat_Sport
+    4300070: SeatL
+    4300072: SkirtL
+    4300074: SkirtR
+    4300076: Spoiler
+    4300078: TireFL
+    4300080: TireFL1
+    4300082: TireFR
+    4300084: TireFR1
+    4300086: TireRL
+    4300088: TireRL1
+    4300090: TireRR
+    4300092: TireRR1
+    4300094: Trunk
+    4300096: WindF
+    4300098: WindFL
+    4300100: WindFR
+    4300102: WindR
+    4300104: WindRL
+    4300106: WindRR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06___Default
+    second: {fileID: 2100000, guid: 181f659baa9fd2940a72cb9d130849e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Badging_Chrome
+    second: {fileID: 2100000, guid: 2d1d25d9af7901544b31d0ae774dde3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 6d7737aa263269348adccc6575a70164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: 09beb1f8ce3360740b316d9463801e8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake_Disc
+    second: {fileID: 2100000, guid: 7f8bf8712e872d74f9c7a7ab20df10f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake_Pads_Left
+    second: {fileID: 2100000, guid: b080fd2e09a43dc4ea62bc3ef4f4ec17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake_Pads_Right
+    second: {fileID: 2100000, guid: 5cd271755b938694ca29b2b63c88f261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decals_F
+    second: {fileID: 2100000, guid: 4f4bb9415ba96604ab26ae7f54f5cbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decals_FL
+    second: {fileID: 2100000, guid: 7e5156f7d7d17c440a9aa1eee565b8ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decals_FR
+    second: {fileID: 2100000, guid: abc6da65a7b45d043a0544b91725481e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decals_R
+    second: {fileID: 2100000, guid: b55cf284ea025c44bb64d3bdf9b9c3e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 6c01e7eea1d0420429421615afb8c71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorLine
+    second: {fileID: 2100000, guid: 9ebd539410dafe141bac8541ce293a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Driver_Sport
+    second: {fileID: 2100000, guid: 512c3991c8bd57e4f888e173b946570a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine
+    second: {fileID: 2100000, guid: 41a3d84b5c991fd46a560aed9c65b390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grill
+    second: {fileID: 2100000, guid: 96a04c4bc9298ff439f12cc44764f107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HoodTrunk
+    second: {fileID: 2100000, guid: 52cf90e23c0e6cf4592d8c00bb0870ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior
+    second: {fileID: 2100000, guid: 08004b6487f33be4c84a23e440512362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: License
+    second: {fileID: 2100000, guid: ea94c347b51d78a44b687b5bc3956a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__579
+    second: {fileID: 2100000, guid: 6370bd0ea91ee794a8f10eb8da769196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__609
+    second: {fileID: 2100000, guid: fb78ea98310c45c4a82e3300dcaa4982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__639
+    second: {fileID: 2100000, guid: c6cf4ae3ec6f82447a53455b3cd87d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__663
+    second: {fileID: 2100000, guid: f126ea86701d9224d9ea13c47bfc911b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc
+    second: {fileID: 2100000, guid: 65b49a598cf297a4da71ef8d73e78c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat_Sport
+    second: {fileID: 2100000, guid: 30456def6f554394e826e4fa4b84c129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: fc84e0a9378591048a789c319c92172a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrom
+    second: {fileID: 2100000, guid: 9019e7e321627de41a72af8b40463301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_line
+    second: {fileID: 2100000, guid: 6486eb59ffb893a4fbddc8a3bb9c2519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: relfection_Material
+    second: {fileID: 2100000, guid: 9d65b3a8090dc8343922bd76f884c7ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_006134113
+    second: {fileID: 2100000, guid: 9512d312763bbb848a8e308fe6aaaa8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_008008136
+    second: {fileID: 2100000, guid: f5fc6a01a0a7be94b811ab9a769c8a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_028028177
+    second: {fileID: 2100000, guid: 2131cf683aa6be94685cb7c9fd40ea39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_086086086
+    second: {fileID: 2100000, guid: 30f0260971630144d97b89ac1ffd3222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_088177026
+    second: {fileID: 2100000, guid: dc9543471b6161d4b92ebbb2ed4ea431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_113134006
+    second: {fileID: 2100000, guid: 9518487abab175948be56a39509dc834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_134059008
+    second: {fileID: 2100000, guid: 2582c12a69686f844a716804a0dca428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_138008110
+    second: {fileID: 2100000, guid: b6ce4d446575d6f448d1211374b22087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_140088225
+    second: {fileID: 2100000, guid: 8d6780abeefc1c14a9daf33b4e3cc6eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_143224087
+    second: {fileID: 2100000, guid: ef34ca228901fb746a92e722fe2dc2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_154215229
+    second: {fileID: 2100000, guid: fd3a6534586caa040b219266b8036acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_165165165
+    second: {fileID: 2100000, guid: 8632cb00a1c0e9340a7d1eb6ab734491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_166229229
+    second: {fileID: 2100000, guid: 0db2d03e0e9ab814fba964f11923785e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_176026026
+    second: {fileID: 2100000, guid: 9675661ceaa0eee47b44d77cb499a6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_177026088
+    second: {fileID: 2100000, guid: 3f394119bcadb094c8fea273611920b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_225088199
+    second: {fileID: 2100000, guid: ff334f5d2cf6d7f4ca3608b897513303, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
